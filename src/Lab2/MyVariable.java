@@ -1,7 +1,5 @@
 package Lab2;
 
-import java.util.zip.ZipEntry;
-
 public class MyVariable {
 
     public static void main(String[] args) {
