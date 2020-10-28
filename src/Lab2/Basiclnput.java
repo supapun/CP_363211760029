@@ -17,7 +17,7 @@ public class Basiclnput {
 
         System.out.println("Enter you nick name ?: ");
         String nickname = scanner.nextLine();
-        System.out.println("Your nick name is "+name);
+        System.out.println("Your nick name is "+nickname);
 
     }//main
 
